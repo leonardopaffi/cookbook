@@ -1,0 +1,24 @@
+Create a folder
+
+Open terminal
+
+Execute command:
+	npx create-electron-app
+
+Dependencies will be automatically created
+Basic project structure has been created
+
+To build and view the application use command:
+	npm start
+	
+	
+Basic project structure using "create-electron-app":
+>node-modules
+	..
+>src
+	index.css
+	index.html
+	index.js
+.gitignore
+package-lock.json
+package.json
