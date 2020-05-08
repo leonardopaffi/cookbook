@@ -10,7 +10,8 @@ Basic project structure has been created
 
 To build and view the application use command:
 	npm start
-	
+
+Edit code, then use "rs" command to refresh the app
 	
 Basic project structure using "create-electron-app":
 >node-modules
