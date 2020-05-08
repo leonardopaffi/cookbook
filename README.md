@@ -17,3 +17,4 @@ Topics I'm currently working on that will be added in the near future in this co
 - Go
 - git
 - Makefile
+- Electorn (js)
